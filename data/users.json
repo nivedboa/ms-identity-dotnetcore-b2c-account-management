@@ -2,35 +2,35 @@
    "users": [
     {
 
-      "displayName": "[TEST] Bridgette Harmon (Local account)",
-      "givenName": "Bridgette",
-      "surname": "Harmon",
+      "displayName": "[TEST] Vijay Kumar (Local account)",
+      "givenName": "Vijay",
+      "surname": "Kumar",
       "identities": [
         {
             "signInType": "emailAddress",
-            "issuerAssignedId": "bridgette@wingtiptoys.com"
+            "issuerAssignedId": "vijay@wingtiptoys.com"
         }
       ],
       "password": "Pass!w0rd"
     },
     {
 
-      "displayName": "[TEST] Curt Foret (Social)",
-      "givenName": "Curt",
-      "surname": "Foret",
+      "displayName": "[TEST] Neha Swamy (Social)",
+      "givenName": "Neha",
+      "surname": "Swamy",
       "identities": [
         {
             "signInType": "federated",
             "issuer": "facebook.com",
             "issuerAssignedId": "0987654321"
         }],
-      "otherMails": ["curt@fabrikam.com"]
+      "otherMails": ["Neha@fabrikam.com"]
     },
     {
 
-      "displayName": "[TEST] Edith Porter (Local and social)",
-      "givenName": "Edith",
-      "surname": "Porter",
+      "displayName": "[TEST] Pooja Kumar (Local and social)",
+      "givenName": "Puja",
+      "surname": "Kumar",
       "identities": [
         {
             "signInType": "federated",
@@ -44,7 +44,7 @@
         },
         {
             "signInType": "emailAddress",
-            "issuerAssignedId": "edith@wingtiptoys.com"
+            "issuerAssignedId": "pooja@wingtiptoys.com"
         }
       ],
       "password": "1234"
