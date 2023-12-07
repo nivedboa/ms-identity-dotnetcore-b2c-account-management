@@ -1,6 +1,4 @@
-// Copyright (c) Microsoft Corporation. All rights reserved.
-// Licensed under the MIT License.
-
+// Purpose: Contains methods for working with users in Azure AD B2C.
 using System;
 using System.Collections.Generic;
 using System.IO;

@@ -1,6 +1,5 @@
-// Copyright (c) Microsoft Corporation. All rights reserved.
-// Licensed under the MIT License.
-
+// Purpose: Contains the UserModel class. This class is used to represent a user in the B2C tenant.
+// Path: src/Models/UserModel.cs
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using Microsoft.Graph;

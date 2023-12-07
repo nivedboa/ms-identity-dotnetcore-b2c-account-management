@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation. All rights reserved.
-// Licensed under the MIT License.
+// Purpose of this file: Contains the UsersModel class. This class is used to represent a list of users in the B2C tenant.
 
 using System.Text.Json;
 using System.Text.Json.Serialization;

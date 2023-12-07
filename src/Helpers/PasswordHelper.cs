@@ -1,4 +1,6 @@
-﻿using System;
+﻿// code for generating random password
+
+using System;
 
 namespace b2c_ms_graph.Helpers
 {

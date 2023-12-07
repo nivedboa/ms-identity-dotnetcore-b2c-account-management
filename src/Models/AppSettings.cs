@@ -1,6 +1,4 @@
-// Copyright (c) Microsoft Corporation. All rights reserved.
-// Licensed under the MIT License.
-
+// Purpose: Model for appsettings.json file.
 using Microsoft.Extensions.Configuration;
 using System.IO;
 using System.Text.Json.Serialization;
